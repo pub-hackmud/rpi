@@ -1,7 +1,7 @@
 # hackmud on RPi 4
 A guide to running hackmud on a Raspberry Pi 4. For support, open an issue or contact mogery#3420 on Discord.
 
-This complete takes about an hour to complete. (45 minutes of waiting time, 10 minutes of active time)
+This guide takes about an hour to complete. (45 minutes of waiting time, 10 minutes of active time)
 
 ## 0. Requirements
 
